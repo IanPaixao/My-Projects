@@ -1,2 +1,3 @@
 # Misc
-Repository for trainee stuff
+Repository for cool projects
+
